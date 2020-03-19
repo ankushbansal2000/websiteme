@@ -224,3 +224,75 @@
     width: 100%;
     height: 100%;
 }
+
+
+
+@media screen and (max-width: 800px) {
+    .introductionWrapHeader{
+        font-size: 23px;
+        margin-top: 120px;
+    }
+    .introDetailsWrap {
+        font-size: 13px;
+    }
+.headingWrap {
+    width: 70%;
+    font-size: 17px;
+}
+.aboutHeaderHeadWrap {
+    width: 100%;
+}
+.aboutInformationWrap {
+    width: 100%;
+    font-size: 12px;
+}
+.aboutPhotographWrap {
+    width: 100%;
+}
+.boxWrapSkills {
+    width: 47%;
+}
+.hobbyDivWrap {
+    width: 50%;
+    font-size: 20px;
+}
+.circleWrapEducation {
+    width: 100%;
+}
+.dataContactWrap {
+    font-size: 12px;
+    padding-left: 4%;
+}
+.detailContactWrap {
+    padding: 3px;
+}
+.imageContactWrap {
+    width: 10%;
+    height: 22px;
+}
+.footerImageWrap {
+    width: 40%;
+}
+.imageWrapFooter{
+    width: 100%;
+    height: 200px;
+}
+.contactInformationWrap {
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
