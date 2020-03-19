@@ -229,11 +229,12 @@
 
 @media screen and (max-width: 800px) {
     .introductionWrapHeader{
-        font-size: 23px;
-        margin-top: 120px;
+        font-size: 25px;
+        margin-top: 200px;
+        width: 100%;
     }
     .introDetailsWrap {
-        font-size: 13px;
+        font-size: 12px;
     }
 .headingWrap {
     width: 70%;
